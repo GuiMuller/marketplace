@@ -4,7 +4,7 @@ import { useState } from 'react';
 function Home() {
     return (
         <div>
-            <div>Home teste</div>
+            <div>Página em homologação</div>
             <Contagem />
         </div>
     )
